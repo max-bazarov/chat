@@ -1,0 +1,2 @@
+env: "local" # local, dev, prod
+port: ":8888"
